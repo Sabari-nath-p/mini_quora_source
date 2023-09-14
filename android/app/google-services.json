@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "459351654272",
+    "project_id": "miniquora-eab5f",
+    "storage_bucket": "miniquora-eab5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459351654272:android:d2753739203df8fd99cb65",
+        "android_client_info": {
+          "package_name": "com.example.miniquora"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWZuPSse2A_F3AjeBeZJNnoPXVqdFO2JY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
